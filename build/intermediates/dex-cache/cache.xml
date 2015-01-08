@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\classes-5e52e833f5eda77b98583b2a80e2d5a211ccb460.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-316987f362a13a5c1aa4952ecd0d0e9acec20fa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-6959777023589a54d2e2fbd7b2e71a82c37ea4b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-43b53230c8cd37f4c71bbda03d353d4fc7e1937e.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-a9e674e587989db996d78b400aa5ad77744dbc0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\classes-d6007bb273bfbb58e98ca471596c6d70259a8831.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-82f8183dfb682a7f9c20e2018200ebd85d6d94c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-28bc071db37489d9808521b03231ebefba50b1cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\chopatate\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="C:\Users\chopatate\AndroidStudioProjects\restapp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-b3b6c0930f80d9b2e1c3b1317c4dd5dbb33b5840.jar" />
+    </item>
+
+</items>
